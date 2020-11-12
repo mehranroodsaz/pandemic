@@ -1,4 +1,5 @@
 import numpy as np
+# this version is working fine with 3 nodes
 
 #  number of nodes
 nodes_no= 3
